@@ -58,7 +58,7 @@ React-Proto允许用户预先可视化/设置他们的应用程序体系结构,�
 
 -   添加要使用输入创建的组件,然后将组件框架拖到适当位置并相应地调整大小. 
 
-<img src="https://github.com/React-Proto/react-proto/blob/master/assets/dragging.gif"/>
+<img src="https://github.com/React-Proto/react-proto/blob/master/assets/dragging.gif?raw=true"/>
 
 -   在构建时,可以使用工具栏中的图标进行缩放ㄡ切换阶段的可拖动性ㄡ更新或删除图像ㄡ折叠左容器ㄡ以及导出文件. 
 
@@ -66,7 +66,7 @@ React-Proto允许用户预先可视化/设置他们的应用程序体系结构,�
 
 -   如果将容器放在其他组件周围,并且不能再访问它们,则可以使用相应下拉菜单中的层按钮来更改层顺序. 
 
-<img src="https://github.com/React-Proto/react-proto/blob/master/assets/hierarchy.gif"/>
+<img src="https://github.com/React-Proto/react-proto/blob/master/assets/hierarchy.gif?raw=true"/>
 
 -   在正确的容器中,PROPS选项卡允许您在关键值对中定义道具,以及必要的支柱类型. 
 
@@ -75,7 +75,7 @@ React-Proto允许用户预先可视化/设置他们的应用程序体系结构,�
     2.  使用创建反应应用程序启动一个新项目 (项目将在"ProtoGyApp"下) . 
     3.  克隆你最喜欢的GITHUB RePo,用你最喜欢的启动文件启动一个项目. 
 
-<img src="https://github.com/React-Proto/react-proto/blob/master/assets/export.gif"/>
+<img src="https://github.com/React-Proto/react-proto/blob/master/assets/export.gif?raw=true"/>
 
 -   最后,开始建造!
 
